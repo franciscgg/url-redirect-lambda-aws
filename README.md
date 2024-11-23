@@ -14,4 +14,5 @@
 
 ## Lessons
 
-✅ Lesson 3: Redirecionamento de URLs e Expiração com Lambda e S3
+✅ Lesson 1 & 2: [Redirect URL Shortener](https://github.com/franciscgg/url-shortner-lambda-aws)
+<br>✅ Lesson 3: Redirecionamento de URLs e Expiração com Lambda e S3
